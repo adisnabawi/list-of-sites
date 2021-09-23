@@ -14,7 +14,7 @@
     border: 1px solid rgb(95, 95, 95);
 }
 
-.iiumlistingform tr, td, th{
+.iiumlistingform tr, .iiumlistingform td, .iiumlistingform th{
     border: 1px solid rgb(95, 95, 95);
     padding:10px;
 }

@@ -1,0 +1,59 @@
+.iiumcard {
+ margin-bottom: 10px;
+}
+
+.iiumcolor {
+    background-color: #00928F;
+    border-color: #00928F;
+}
+
+.iiumlistingform {
+    margin-bottom: 20px;
+    width: 90%;
+    border-collapse: collapse;
+    border: 1px solid rgb(95, 95, 95);
+}
+
+.iiumlistingform tr, td, th{
+    border: 1px solid rgb(95, 95, 95);
+    padding:10px;
+}
+
+.iiumlistingform .center{
+    text-align: center;
+}
+
+.iiumlistingform input{
+    width:100%;
+}
+
+.iiumlistingform .clipiiumbtn {
+    min-height: 30px;
+    background-color: rgb(2, 118, 122);
+    color:#fff;
+    border:0px;
+    border-radius: 5px;
+    padding:8px;
+    margin: 3px;
+    width: 100%;
+}
+
+.iiumlistingform .clipiiumbtn:hover {
+    background-color: rgb(1, 66, 68);
+    cursor: pointer;
+}
+
+.iiumlistingform .deleteiiumlist {
+    min-height: 30px;
+    background-color: rgb(148, 18, 18);
+    color:#fff;
+    border:0px;
+    border-radius: 5px;
+    margin: 3px;
+    padding:8px;
+}
+
+.iiumlistingform .deleteiiumlist:hover {
+    background-color: rgb(92, 2, 2);
+    cursor: pointer;
+}
